@@ -12,4 +12,5 @@ package Entity;
 public class Medoc 
 {
     private int numMedoc;
+    
 }
